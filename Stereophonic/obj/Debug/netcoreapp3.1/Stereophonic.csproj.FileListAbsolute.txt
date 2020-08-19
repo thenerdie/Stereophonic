@@ -1,0 +1,4 @@
+C:\Users\kisperal\Projects\Stereophonic\Stereophonic\bin\Debug\netcoreapp3.1\Stereophonic.exe
+C:\Users\kisperal\Projects\Stereophonic\Stereophonic\obj\Debug\netcoreapp3.1\Stereophonic.csprojAssemblyReference.cache
+C:\Users\kisperal\Projects\Stereophonic\Stereophonic\obj\Debug\netcoreapp3.1\Stereophonic.AssemblyInfoInputs.cache
+C:\Users\kisperal\Projects\Stereophonic\Stereophonic\obj\Debug\netcoreapp3.1\Stereophonic.AssemblyInfo.cs
